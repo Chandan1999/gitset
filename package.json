@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/Chandan1999/gitset/issues"
   },
-  "homepage": "https://github.com/Chandan1999/gitset#readme"
+  "homepage": "https://github.com/Chandan1999/gitset#readme",
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "devDependencies": {}
 }
